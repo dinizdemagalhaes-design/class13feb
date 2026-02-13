@@ -1,0 +1,14 @@
+programa
+{
+	
+	funcao inicio()
+	{
+	real valorareceber, valorpago, resultado, subtracao
+	escreva("digite o primeiro numero:") 
+	leia (valorareceber)
+	escreva("digite o segundo numero:")
+	leia (valorpago)
+	subtracao = (valorareceber-valorpago) 
+		escreva("o resultado da subtracao é", subtracao, "\n")
+	}
+}
