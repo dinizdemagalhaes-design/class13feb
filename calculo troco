@@ -5,10 +5,10 @@ programa
 	{
 	real valorareceber, valorpago, resultado, subtracao
 	escreva("digite o primeiro numero:") 
-	leia (valorareceber)
-	escreva("digite o segundo numero:")
 	leia (valorpago)
-	subtracao = (valorareceber-valorpago) 
+	escreva("digite o segundo numero:")
+	leia (valorareceber)
+	subtracao = (valorpago-valorareceber) 
 		escreva("o resultado da subtracao é", subtracao, "\n")
 	}
 }
